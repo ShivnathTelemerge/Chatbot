@@ -1,0 +1,32 @@
+.card{
+width: auto;
+height: auto;
+}
+
+.image{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: unset;
+    border-radius: 50%;
+  
+}
+
+.name{
+    margin-top: 40px;
+  
+  
+}
+.card-img-top{
+    vertical-align: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    /* border-radius: 50%; */
+   
+}
+.btn{
+   background-color:  rgb(9, 98, 114);
+}
+.card-img-top:hover{
+    box-shadow: 5px 10px 20px 1px;
+}
